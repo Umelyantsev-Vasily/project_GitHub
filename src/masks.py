@@ -1,9 +1,7 @@
-from typing import (
-    Union,
-)
+from typing import Union
 
-card_user = input()
-account_numbers = input()
+# card_user = input()
+# account_numbers = input()
 """ Получаем данные от пользователя"""
 
 
@@ -29,5 +27,5 @@ def get_mask_account(
     return f"**{str_account_numbers[-4:]}"
 
 
-print(get_mask_card_number(card_user))
-print(get_mask_account(account_numbers))
+# print(get_mask_card_number(card_user))
+# print(get_mask_account(account_numbers))
