@@ -37,7 +37,8 @@ python manage.py runserver
 
 ## Лицензия:
 
-Проект распространяется под [лицензией MIT](LICENSE).
+Проект распространяется под [лицензией MIT](LICENSE).   
+
 5. Cсылка на [Markdown](https://gist.github.com/Jekins/2bf2d0638163f1294637)
 
 
